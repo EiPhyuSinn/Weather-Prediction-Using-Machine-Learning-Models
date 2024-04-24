@@ -51,7 +51,7 @@ To replicate the project or use the provided models:
 
 ## Contributors
 
-- Ei h y u Sinn (2016-MIIT-ECE-051)
+- Ei Phyu Sinn (2016-MIIT-ECE-051)
 
 ## License
 
